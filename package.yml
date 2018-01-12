@@ -1,8 +1,8 @@
 name       : kdepim-apps-libs
-version    : 17.08.3
-release    : 4
+version    : 17.12.1
+release    : 5
 source     :
-    - https://cdn.download.kde.org/stable/applications/17.08.3/src/kdepim-apps-libs-17.08.3.tar.xz : 5738505df1eae02086bfede69c06d9111467d4e9603c2c96faba84c17fb3061c
+    - https://cdn.download.kde.org/stable/applications/17.12.1/src/kdepim-apps-libs-17.12.1.tar.xz : 49495d8626e26445d4913cd8115818d76de8e15cae0fadeb63384d4e3ee3c7f7
 license    :
     - GPL-2.0
     - LGPL-2.1
@@ -31,6 +31,7 @@ builddeps  :
     - libboost-devel
     - libkleo-devel
     - pimcommon-devel
+    - prison-devel
 setup      : |
     %cmake .
 build      : |
