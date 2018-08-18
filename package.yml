@@ -1,8 +1,8 @@
 name       : kdepim-apps-libs
-version    : 18.04.3
-release    : 11
+version    : 18.08.0
+release    : 12
 source     :
-    - https://cdn.download.kde.org/stable/applications/18.04.3/src/kdepim-apps-libs-18.04.3.tar.xz : f4c4ce0b83650f00d3a14371afa4465627d41734f2b6a1117a7ea55f7ae23fd2
+    - https://cdn.download.kde.org/stable/applications/18.08.0/src/kdepim-apps-libs-18.08.0.tar.xz : 251143d02d4371331331de41ebd02c4fd839babf57c75dfaab6feb4ca31dfd7e
 license    :
     - GPL-2.0
     - LGPL-2.1
@@ -11,7 +11,6 @@ summary    : KDE PIM mail related libraries
 description: |
     KDE PIM mail related libraries
 builddeps  :
-    - pkgconfig(gl)
     - pkgconfig(libsasl2)
     - pkgconfig(Qt5Core)
     - akonadi-contacts-devel
