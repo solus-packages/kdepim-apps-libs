@@ -1,11 +1,11 @@
 name       : kdepim-apps-libs
-version    : 18.08.2
-release    : 14
+version    : 18.08.3
+release    : 15
 source     :
-    - https://cdn.download.kde.org/stable/applications/18.08.2/src/kdepim-apps-libs-18.08.2.tar.xz : 10ac6453b8bd961c6ad0a2fde1e7f4893bec25fe13307f34bb1fb6d82ce8b15a
+    - https://cdn.download.kde.org/stable/applications/18.08.3/src/kdepim-apps-libs-18.08.3.tar.xz : 25be84f9764da3a192074e5976bc8efdd2ddcd0a385541ae1730b03db9d3012b
 license    :
-    - GPL-2.0
-    - LGPL-2.1
+    - GPL-2.0-or-later
+    - LGPL-2.1-or-later
 component  : desktop.library
 summary    : KDE PIM mail related libraries
 description: |
