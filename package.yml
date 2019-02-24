@@ -1,8 +1,8 @@
 name       : kdepim-apps-libs
-version    : 18.12.1
-release    : 17
+version    : 18.12.2
+release    : 18
 source     :
-    - https://cdn.download.kde.org/stable/applications/18.12.1/src/kdepim-apps-libs-18.12.1.tar.xz : 7160d7cf38b77d07250fc3e94d3b2482f4805c5c808fce0894c69804aa01031b
+    - https://cdn.download.kde.org/stable/applications/18.12.2/src/kdepim-apps-libs-18.12.2.tar.xz : 06e19b5878600e92be6f9184efd51bc0abc74a1582d6c77f84dc2703a00238dd
 license    :
     - GPL-2.0-or-later
     - LGPL-2.1-or-later
