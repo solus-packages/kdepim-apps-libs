@@ -1,6 +1,6 @@
 name       : kdepim-apps-libs
 version    : 19.08.1
-release    : 26
+release    : 27
 source     :
     - https://cdn.download.kde.org/stable/applications/19.08.1/src/kdepim-apps-libs-19.08.1.tar.xz : 40a265cde8770a3fd6181b656da49d460dc67ed06d175067da0092116cd9862e
 license    :
