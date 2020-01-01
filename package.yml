@@ -3,6 +3,7 @@ version    : 19.12.0
 release    : 30
 source     :
     - https://cdn.download.kde.org/stable/release-service/19.12.0/src/kdepim-apps-libs-19.12.0.tar.xz : ad881d0df4d06293f5f3c1c6e7c62ccb960571eea0af87d18b73a4e367d6becb
+homepage   : https://community.kde.org/PIM
 license    :
     - GPL-2.0-or-later
     - LGPL-2.1-or-later
