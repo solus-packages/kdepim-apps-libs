@@ -1,8 +1,8 @@
 name       : kdepim-apps-libs
-version    : 19.12.2
-release    : 33
+version    : 19.12.3
+release    : 34
 source     :
-    - https://cdn.download.kde.org/stable/release-service/19.12.2/src/kdepim-apps-libs-19.12.2.tar.xz : e3d48aa2cb4d9bae6720ddd2de9c9f2874fb84b8ea47a3aea9913c5f75bee5f9
+    - https://cdn.download.kde.org/stable/release-service/19.12.3/src/kdepim-apps-libs-19.12.3.tar.xz : e133cf76364f6b244338eafd39845a9f392eb9b55c43446541acbcb24a6f4796
 homepage   : https://community.kde.org/PIM
 license    :
     - GPL-2.0-or-later
